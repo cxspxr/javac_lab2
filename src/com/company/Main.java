@@ -12,6 +12,9 @@ import java.util.LinkedList;
 /**
  * Program entry point
  *
+ * Task:
+ *     9. Taxi: payment for km and for time.
+ *
  * (c) Yaroslav Kasperovych
  * MIT License
  */
